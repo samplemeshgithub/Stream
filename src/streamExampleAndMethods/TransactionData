@@ -1,0 +1,14 @@
+Transactions with amount greater than 150 and status 'completed':
+ID: 1, Amount: $200.0
+ID: 3, Amount: $300.0
+
+Transactions sorted in descending order based on the amount:
+ID: 3, Amount: $300.0
+ID: 1, Amount: $200.0
+ID: 2, Amount: $150.0
+
+Total amount of all transactions: 650.0
+
+Total amount for each status group:
+Status: pending, Total Amount: 150.0
+Status: completed, Total Amount: 500.0
